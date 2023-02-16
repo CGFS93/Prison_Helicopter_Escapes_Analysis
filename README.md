@@ -1,14 +1,24 @@
-# Prison_Helicopter_Escapes_Analysis
-Analysis about prison breaks, Obtain data from the internet, and prepare it for analysis using Python and Jupyter Notebook.
+# Prison Helicopter Escapes Analysis
+## Overview
+This project analyzes instances of prison breaks where inmates escaped using helicopters. The data was obtained from the internet and analyzed using Python and Jupyter Notebook.
 
-There have been multiple prison escapes where an inmate escapes by means of a helicopter. One of the earliest instances was the escape of Joel David Kaplan, nicknamed "Man Fan", on August 19, 1971, from the Santa Martha Acatitla in Mexico. Kaplan was a New York businessman who not only escaped the prison but eventually got out of Mexico and went on to write a book about his experience, The 10-Second Jailbreak.
+## Background
+The use of helicopters in prison breaks is not a new phenomenon. One of the earliest known instances of a helicopter prison escape occurred in 1971, when New York businessman Joel David Kaplan, also known as "Man Fan," escaped from Santa Martha Acatitla prison in Mexico. Kaplan eventually left Mexico and wrote a book about his experience titled "The 10-Second Jailbreak."
 
-France has had more recorded helicopter escape attempts than any other country, with at least 11. One of the most notable French jail breaks occurred in 1986, when the wife of bank robber Michel Vaujour studied for months to learn how to fly a helicopter. Using her newly acquired skills, she rented a white helicopter and flew low over Paris to pluck her husband off the roof of his fortress prison. Vaujour was later seriously wounded in a shootout with police, and his pilot wife was arrested.
+France has had the highest number of recorded helicopter escape attempts, with at least 11 instances. One of the most notable French jail breaks occurred in 1986 when the wife of bank robber Michel Vaujour learned how to fly a helicopter and used her skills to rescue her husband from his prison roof. Vaujour was later seriously wounded in a shootout with police, and his wife was arrested.
 
-The record for most helicopter escapes goes to convicted murderer Pascal Payet, who has used helicopters to escape from prisons in 2001, 2003, and most recently 2007.
+The record for most helicopter escapes goes to convicted murderer Pascal Payet, who used helicopters to escape from prisons in 2001, 2003, and 2007. Another multiple helicopter escapee is Vassilis Palaiokostas, who escaped for the second time from the same prison in 2009.
 
-Another multiple helicopter escapee is Vassilis Palaiokostas, who on February 22, 2009, escaped for the second time from the same prison.
+To prevent such escapes, many prisons have taken precautions such as installing nets or cables over open courtyards.
 
-To thwart attempts of this nature, many prisons have taken precautions such as nets or cables strung over open prison courtyards.
+### Data Source
+The data for this analysis was obtained from WikiPedia.
 
-This list includes prisoner escapes where a helicopter was used in an attempt to free prisoners from a place of internment, a prison or correctional facility.
+### Methodology
+The analysis was performed using Python and Jupyter Notebook.
+
+### Scope
+This analysis includes instances of prisoner escapes where a helicopter was used to free prisoners from a place of internment, a prison, or a correctional facility.
+
+### Conclusion
+The use of helicopters in prison breaks is a dangerous and illegal practice. While some individuals have been successful in their attempts, many have been caught and punished. Prisons continue to take steps to prevent such escapes from occurring. 
