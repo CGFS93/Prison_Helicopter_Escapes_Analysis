@@ -14,10 +14,10 @@ To prevent such escapes, many prisons have taken precautions such as installing 
 ## Data Source
 The data for this analysis was obtained from WikiPedia.
 
-### Methodology
+## Methodology
 The analysis was performed using Python and Jupyter Notebook.
 
-#### Scope
+## Scope
 This analysis includes instances of prisoner escapes where a helicopter was used to free prisoners from a place of internment, a prison, or a correctional facility.
 
 ## Conclusion
